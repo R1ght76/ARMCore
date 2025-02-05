@@ -7,7 +7,7 @@ CPU: Any 8 core
 RAM: 3-4 GB RAM
 ROM: 32 GB 
 Screen: >5 inches
-Additionally: Gamepad,SD Card 16 GB minium 
+Additionally: Gamepad,SD Card 16 GB minimal
 
 ```
 ## 2. Install ##
