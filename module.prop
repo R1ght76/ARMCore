@@ -1,0 +1,6 @@
+id=armcore
+name=ARMCore OS
+version=1.0.2.0
+versionCode=3
+author=PixelSmith
+description=Console OS for Android Device.
